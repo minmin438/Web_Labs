@@ -28,12 +28,12 @@ Deployment: Hosted on GitHub Pages.
 
 Setup Instructions
 
-Clone the repository: git clone https://github.com/your-username/portfolio.git
+Clone the repository: git clone https://github.com/minmin438/portfolio.git
 Open index.html in a browser to view locally.
 Ensure images are placed in the images/ folder.
 
 Deployment
-This portfolio is deployed on GitHub Pages at: https://your-username.github.io/portfolio/.
+This portfolio is deployed on GitHub Pages at: https://minmin438.github.io/portfolio/.
 Technologies Used
 
 HTML5
