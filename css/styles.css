@@ -68,7 +68,7 @@ section {
 }
 
 .gallery {
-    overflow: hidden; /* Clearfix for floated images */
+    overflow: hidden; 
 }
 
 .gallery img {
